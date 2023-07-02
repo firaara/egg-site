@@ -1,0 +1,74 @@
+body {
+  background-image: repeating-linear-gradient(
+    220deg,
+    rgb(0, 0, 0) 0px,
+    rgb(0, 0, 0) 19px,
+    transparent 19px,
+    transparent 22px
+  ),
+  repeating-linear-gradient(
+    189deg,
+    rgb(0, 0, 0) 0px,
+    rgb(0, 0, 0) 19px,
+    transparent 19px,
+    transparent 22px
+  ),
+  repeating-linear-gradient(
+    148deg,
+    rgb(0, 0, 0) 0px,
+    rgb(0, 0, 0) 19px,
+    transparent 19px,
+    transparent 22px
+  ),
+  linear-gradient(90deg, rgb(169, 30, 30), rgb(158, 25, 173));
+    color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 0 50px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: pink;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  h2 {
+    color: pink;
+    font-family: "Roboto", sans-serif;
+    text-align: left;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  a {
+    color: pink;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .button {
+    background-color: rgb(83, 30, 72);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  p {
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+  }
