@@ -55,12 +55,21 @@ a {
   border-radius: 10px;
 }
 
+.troll {
+  position: absolute;
+  right: -1632%;
+  bottom: 10%;
+}
+
 .rainbow {
+  position: absolute;
   text-align: center;
-  font-size: 20px;
+  font-size: 100px;
   font-family: Roboto;
   letter-spacing: 5px;
-  animation: colorRotate 3s linear 0s infinite;
+  animation: colorRotate 1s linear 0s infinite;
+  right: -1100%;
+  bottom: 50%;
 }
 
 @keyframes colorRotate {
@@ -86,6 +95,16 @@ a {
   right: 2%;
   bottom: 0vh;
   border-radius: 12px;
+}
+
+.sogers {
+  position: relative;
+}
+
+.soggy{
+  position: absolute;
+  height: 40%;
+  right: -2000%;
 }
 .arabia {
   position: absolute;
