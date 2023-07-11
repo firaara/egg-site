@@ -31,6 +31,7 @@ a {
   position: absolute;
   bottom: 20%;
   animation: rotate 0.5s infinite linear;
+  height: 15vh;
 }
 .transz {
   position: absolute;
